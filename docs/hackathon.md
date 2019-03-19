@@ -62,7 +62,6 @@ Once you have created a new hack issue, be sure to list in the table below.
 | [Porting LFI Techniques to Julia](https://github.com/LFITaskForce/FlatironMeeting/issues/35) | @dch216 | People with experience in Julia (or high-level programming in general) and development experience in an LFI technique |                     | W-F      |
 | [Using LFI on Exoplanet Count Data](https://github.com/LFITaskForce/FlatironMeeting/issues/36) | @dch216 | People with knowledge of how to apply an LFI technique to work with 2D-grid data |                     | W-F      |
 | [Benchmark problems](https://github.com/LFITaskForce/FlatironMeeting/issues/33) | @jan-matthis | | @johannbrehmer | W-F |
-| [Global vs local summaries](https://github.com/LFITaskForce/FlatironMeeting/issues/39) | @bwandelt | | | W-F |
 
 ## Breakout tutorial sessions
 
@@ -74,7 +73,7 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 |----------------|-----------|--------------|-------------------------|------------------|
 | GitHub Primer  |  @EiffL   | @EiffL       |  @viajani                 | Wed 1:30, in TBD |
 | Pyro (or pyprob) crash course |           | @johannbrehmer | @johannbrehmer, @EiffL, @MilesCranmer, @Linc-tw , @dch216  | |
-| BOLFI |     @OwenThomas      | @changhoonhahn | @changhoonhahn | | 
+| BOLFI |     @OwenThomas , @UmbertoSimola     | @changhoonhahn | @changhoonhahn | | 
 | pydelfi tutorial |   @justinalsing        | @changhoonhahn | @changhoonhahn, @johannbrehmer , @viajani | | 
 | summary of available software packages |           | @dfm | @dfm, @johannbrehmer, @dch216, @changhoonhahn  | | 
 | Intro to TensorFlow Probability by building a conditional density estimator for discrete counts | @EiffL | @EiffL | @changhoonhahn |  |
